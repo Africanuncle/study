@@ -11,5 +11,5 @@
 
 #### **excute_image_data . py** 
 在youtube上关注的我是土堆的pytorch教程第六集<br>
-提到了label和image分开保存，并且label单独用txt文件保存
-故写了这个脚本来执行从训练图片提取名称保存到label的txt中
+提到了label和image分开保存，并且label单独用txt文件保存<br>
+故写了这个脚本来执行从训练图片提取名称保存到label的txt中<br>
